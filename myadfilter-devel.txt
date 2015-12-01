@@ -1,0 +1,6 @@
+! Title: My Paywall and Cookie-accept Filter
+! Expires: 30 days
+! Homepage: https://github.com/czoller/myadfilter/
+! Version: 20151201
+
+connectormwi.laterpay.net$script

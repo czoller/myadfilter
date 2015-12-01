@@ -1,5 +1,5 @@
 # myadfilter
-Contains my personal filter list for Adblock (Plus).
+Contains my personal filter list for Adblock Plus.
 
 Changes are made to [myadfilter-devel.txt](myadfilter-devel.txt) which contains no checksum.
 
@@ -9,7 +9,7 @@ Checksum can be validated with [validateChecksum.py](https://hg.adblockplus.org/
 
 Installation
 ------------
-Add new filter subscripition to Adblock (Plus) filter settings with title "MyAdFilter" or what so ever and URL https://raw.githubusercontent.com/czoller/myadfilter/master/myadfilter.txt.
+[Go to Subscription page](http://czoller.github.io/myadfilter/subscribe.html) 
 
 Contribution
 ------------

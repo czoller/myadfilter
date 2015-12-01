@@ -4,3 +4,4 @@
 ! Homepage: https://github.com/czoller/myadfilter/
 ! Version: 20151201
 connectormwi.laterpay.net$script
+golem.de##div#golem-cookie-accept

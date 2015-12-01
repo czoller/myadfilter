@@ -1,7 +1,7 @@
+[Adblock Plus 2.0]
+! Checksum: hy4AFrRFyriNLhCX3m5Hmg
 ! Title: My Paywall and Cookie-accept Filter
-! Checksum: m/Pz+kwTWLy+FXc+sb5vjQ
 ! Expires: 30 days
 ! Homepage: https://github.com/czoller/myadfilter/
 ! Version: 20151201
-
 connectormwi.laterpay.net$script

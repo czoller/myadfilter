@@ -1,6 +1,4 @@
 # myadfilter
-Personal Adblock Filterlist
-
 Contains my personal filter list for Adblock (Plus).
 
 Changes are made to [myadfilter-devel.txt](myadfilter-devel.txt) which contains no checksum.

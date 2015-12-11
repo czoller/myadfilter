@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: My Paywall and Cookie-accept Filter
-! Expires: 30 days
+! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/
-! Version: 20151201
 !
 ! Paywalls
 connectormwi.laterpay.net$script

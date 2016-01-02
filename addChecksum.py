@@ -65,7 +65,7 @@ def readStream(stream):
   reader = codecs.getreader('utf8')(stream)
   try:
     return reader.read()
-  except Exception, e:
+  except Exception as e: 
     raise Exception('Failed reading data, most likely not encoded as UTF-8:\n%s' % e)
 
 if __name__ == '__main__':

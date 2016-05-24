@@ -1,6 +1,7 @@
+read
 [Adblock Plus 2.0]
-! Checksum: /WXSwuxHLmBfTuINRDwI3w
-! Version: 20160102.2351
+! Checksum: VaTEsfkJ1uTVzUq7mkEP1g
+! Version: 20160524.1235
 ! Title: My Paywall and Cookie-accept Filter
 ! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/
@@ -18,3 +19,5 @@
 ! Ads
 ||de.wikipedia.org##div#WMDE_Banner
 ||serienjunkies.de/img/
+||suchen.mobile.de##.cBox-body--topInCategory
+||suchen.mobile.de##.cBox-body--topResultitem

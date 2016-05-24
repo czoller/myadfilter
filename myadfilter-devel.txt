@@ -16,3 +16,5 @@
 ! Ads
 ||de.wikipedia.org##div#WMDE_Banner
 ||serienjunkies.de/img/
+||suchen.mobile.de##.cBox-body--topInCategory
+||suchen.mobile.de##.cBox-body--topResultitem

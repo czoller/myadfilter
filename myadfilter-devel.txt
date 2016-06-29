@@ -16,5 +16,6 @@ serienjunkies.de##div.cc_banner-wrapper
 ! Ads
 de.wikipedia.org##div#WMDE_Banner
 serienjunkies.de/img/
+www.weser-kurier.de/image/U
 suchen.mobile.de##.cBox-body--topInCategory
 suchen.mobile.de##.cBox-body--topResultitem

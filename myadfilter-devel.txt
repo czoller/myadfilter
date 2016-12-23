@@ -8,10 +8,9 @@ connectormwi.laterpay.net$script
 !
 ! Accept Cookies...
 golem.de###golem-cookie-accept
-weser-kurier.de##div.cc_banner-wrapper
 kreiszeitung.de##div.id-CookieConsent
 chip.de##div#cookieChoiceInfo
-serienjunkies.de##div.cc_banner-wrapper
+##div.cc_banner-wrapper
 !
 ! Ads
 de.wikipedia.org##div#WMDE_Banner

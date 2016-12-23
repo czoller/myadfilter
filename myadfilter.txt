@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: RbHXUk8j3OqerXYH8cZyRw
-! Version: 20161223.1056
+! Checksum: 33ujvPTVqegKqcfozMSUrQ
+! Version: 20161223.1057
 ! Title: My Paywall and Cookie-accept Filter
 ! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/
@@ -10,10 +10,9 @@ connectormwi.laterpay.net$script
 !
 ! Accept Cookies...
 golem.de###golem-cookie-accept
-weser-kurier.de##div.cc_banner-wrapper
 kreiszeitung.de##div.id-CookieConsent
 chip.de##div#cookieChoiceInfo
-serienjunkies.de##div.cc_banner-wrapper
+##div.cc_banner-wrapper
 !
 ! Ads
 de.wikipedia.org##div#WMDE_Banner

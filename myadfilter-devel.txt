@@ -11,6 +11,7 @@ golem.de###golem-cookie-accept
 kreiszeitung.de##div.id-CookieConsent
 chip.de##div#cookieChoiceInfo
 ##div.cc_banner-wrapper
+ebay.de##div.gh-gb
 !
 ! Ads
 de.wikipedia.org##div#WMDE_Banner

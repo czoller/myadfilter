@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: L/W9zKCRbuJz1ZV1GkyMHg
-! Version: 20170703.1334
+! Checksum: pW9YybNtOqlhhv4uOSTBWA
+! Version: 20170704.1256
 ! Title: My Paywall and Cookie-accept Filter
 ! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/
@@ -14,6 +14,7 @@ kreiszeitung.de##div.id-CookieConsent
 chip.de##div#cookieChoiceInfo
 ##div.cc_banner-wrapper
 ebay.de##div.gh-banner
+ebay.de###gh-gb
 facebook.com##div._3d9x
 facebook.com##div._5hn6
 !

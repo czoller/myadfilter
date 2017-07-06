@@ -23,3 +23,5 @@ www.weser-kurier.de/image/U
 www.weser-kurier.de/imag/publc
 suchen.mobile.de##.cBox-body--topInCategory
 suchen.mobile.de##.cBox-body--topResultitem
+mopo.de##main > div.dm_container > div
+mopo.de##header.dm_page_header + div

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: JiTbAYRRumQHGBi7MCLqOw
-! Version: 20170713.1337
+! Checksum: NJs49PTkLCODObQMSbV9gg
+! Version: 20170713.1340
 ! Title: My Paywall and Cookie-accept Filter
 ! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/

@@ -25,3 +25,4 @@ suchen.mobile.de##.cBox-body--topInCategory
 suchen.mobile.de##.cBox-body--topResultitem
 www.mopo.de/image/*/*/*/*/*/*/*-*-201*.jpg
 kicker.de/image/U/
+www.kreiszeitung.de#div(class^=sc-)

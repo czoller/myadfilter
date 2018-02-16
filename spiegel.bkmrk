@@ -1,0 +1,1 @@
+javascript:void%20function(){$(%22#wrapper-content%22).removeAttr(%22style%22),$(%22.ua-detected%22).hide(),SPLaterpay.callback.hasAccess(),$(%22.lp_mwi_payment-method-wrapper%22).parent().parent().fadeOut(),x=$(%22.deobfuscated-content%22).parent().attr(%22class%22),$(%22.deobfuscated-content%22).parent().removeClass(x)}();

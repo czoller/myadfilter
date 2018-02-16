@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 059T0EnQ2NIAf3VMG7BaTg
-! Version: 20170809.1039
+! Checksum: egjJ3mFtoX+Q37Y1DE9BXg
+! Version: 20170905.0953
 ! Title: My Paywall and Cookie-accept Filter
 ! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/
@@ -22,7 +22,7 @@ facebook.com##div._5hn6
 de.wikipedia.org##div#WMDE_Banner
 serienjunkies.de/img/
 www.weser-kurier.de/image/U
-www.weser-kurier.de/imag/publc
+www.weser-kurier.de/image/public
 suchen.mobile.de##.cBox-body--topInCategory
 suchen.mobile.de##.cBox-body--topResultitem
 www.mopo.de/image/*/*/*/*/*/*/*-*-201*.jpg

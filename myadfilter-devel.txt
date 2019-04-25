@@ -26,3 +26,7 @@ suchen.mobile.de##.cBox-body--topResultitem
 www.mopo.de/image/*/*/*/*/*/*/*-*-201*.jpg
 kicker.de/image/U/
 www.kreiszeitung.de#div(class^=sc-)
+adx.ligadx.com$script
+
+! Adblock Warnings
+www.mopo.de###wl-overlay-wrapper

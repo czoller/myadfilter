@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: egjJ3mFtoX+Q37Y1DE9BXg
-! Version: 20170905.0953
+! Checksum: JjqDX3ghAuC4mUHAw9Tipg
+! Version: 20190425.1103
 ! Title: My Paywall and Cookie-accept Filter
 ! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/
@@ -28,3 +28,7 @@ suchen.mobile.de##.cBox-body--topResultitem
 www.mopo.de/image/*/*/*/*/*/*/*-*-201*.jpg
 kicker.de/image/U/
 www.kreiszeitung.de#div(class^=sc-)
+adx.ligadx.com$script
+
+! Adblock Warnings
+www.mopo.de###wl-overlay-wrapper

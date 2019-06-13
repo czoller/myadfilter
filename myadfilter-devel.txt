@@ -6,6 +6,7 @@
 ! Paywalls
 connectormwi.laterpay.net$script
 neues-deutschland.de##div.Paywall
+neues-deutschland.de/css/paywall.css
 !
 ! Accept Cookies...
 golem.de###golem-cookie-accept

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: c9OKq1Dabtp362H21xl5Xg
-! Version: 20190612.0951
+! Checksum: yfokxXR4V5uj8wBxtkyteg
+! Version: 20190613.1349
 ! Title: My Paywall and Cookie-accept Filter
 ! Expires: 7 days
 ! Homepage: https://github.com/czoller/myadfilter/
@@ -8,6 +8,7 @@
 ! Paywalls
 connectormwi.laterpay.net$script
 neues-deutschland.de##div.Paywall
+neues-deutschland.de/css/paywall.css
 !
 ! Accept Cookies...
 golem.de###golem-cookie-accept

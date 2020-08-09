@@ -17,6 +17,8 @@ ebay.de##div.gh-banner
 ebay.de###gh-gb
 facebook.com##div._3d9x
 facebook.com##div._5hn6
+www.kreiszeitung.de###consentDialog
+www.kreiszeitung.de##div.wtc-wg-plugilo-connector
 !
 ! Ads
 de.wikipedia.org##div#WMDE_Banner

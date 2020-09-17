@@ -11,6 +11,7 @@ neues-deutschland.de/css/paywall.css
 ! Accept Cookies...
 golem.de###golem-cookie-accept
 kreiszeitung.de##div.id-CookieConsent
+neues-deutschland.de###data-protection
 chip.de##div#cookieChoiceInfo
 ##div.cc_banner-wrapper
 ebay.de##div.gh-banner
